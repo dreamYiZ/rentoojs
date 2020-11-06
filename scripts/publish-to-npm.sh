@@ -1,3 +1,3 @@
 #! /usr/bin/env bash
-git push &&
+git add .;git commit -am '-';git push &&
 npm publish --access public
