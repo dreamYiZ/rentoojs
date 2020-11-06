@@ -1,0 +1,23 @@
+{
+  "name": "rentoojs",
+  "version": "1.0.11",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "./scripts/publish-to-npm.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamYiZ/rentoojs.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "rentoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamYiZ/rentoojs/issues"
+  },
+  "homepage": "https://github.com/dreamYiZ/rentoojs#readme"
+}
